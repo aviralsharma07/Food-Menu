@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    margin: .5rem;
+}
+nav{
+    border: 1px solid;
+    max-width: 40%;
+    margin: 8% auto;
+    border-radius: 2rem;
+    font-size: 2.5rem;
+    line-height: 5rem;
+}
+h2{
+    background-color: rgb(213, 206, 247);
+    border-radius: 2rem 2rem 0 0;
+}
+ul{
+    background-color: rgb(252, 209, 145);
+    border-radius: 0 0 2rem 2rem;
+    list-style-type: none;
+}
+li{
+    border-top: 1px solid;
+}
+
